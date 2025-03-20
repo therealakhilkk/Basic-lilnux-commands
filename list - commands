@@ -173,7 +173,4 @@ Top Kali Linux Commands
 138. scp - Securely copy files
 139. rsync - Sync directories
 140. cron - Schedule tasks
-141. at - Schedule one-time tasks
-142. strace - Trace system calls
-143. lsof - List open files
 
